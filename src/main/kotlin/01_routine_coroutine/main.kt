@@ -1,4 +1,4 @@
-package `01_routine_corutine`
+package `01_routine_coroutine`
 
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
