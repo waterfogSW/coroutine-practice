@@ -1,10 +1,8 @@
-package `01_routine_coroutine`
-
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 import kotlinx.coroutines.yield
-import printWithThread
 
+class `01_routine_coroutine`
 
 fun main() = runBlocking {
     printWithThread("start")

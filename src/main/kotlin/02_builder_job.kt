@@ -1,7 +1,4 @@
-package `03_builder_job`
-
 import kotlinx.coroutines.*
-import printWithThread
 import kotlin.system.measureTimeMillis
 
 fun main() {
